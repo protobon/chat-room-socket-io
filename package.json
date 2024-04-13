@@ -3,9 +3,9 @@
   "version": "1.0.0",
   "description": "Room chat connected through WebSockets",
   "type": "module",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "dev": "nodemon index.js"
+    "dev": "nodemon server.js"
   },
   "author": "protobon",
   "license": "ISC",
